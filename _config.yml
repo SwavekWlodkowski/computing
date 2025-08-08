@@ -2,7 +2,7 @@ title: Computing
 description: Knowledge base for students of computing
 theme: just-the-docs
 
-url: https://https://swavekwlodkowski.github.io/computing/
+url: https://swavekwlodkowski.github.io/computing/
 avatar: assets/images/penguin.png
 permalink: pretty
 
@@ -34,6 +34,7 @@ search:
   button: true
 
 nav_sort: case_sensitive # Capital letters sorted before lowercase
+
 aux_links_new_tab: true
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
