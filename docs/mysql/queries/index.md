@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MySQL queries
+title: Queries
 permalink: /mysql/queries/introduction
 has_children: true
 parent: MySQL
