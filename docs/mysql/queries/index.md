@@ -7,4 +7,4 @@ parent: MySQL
 nav_order: 1
 ---
 
-here Queries
+OLAP
